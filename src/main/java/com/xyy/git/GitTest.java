@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("push test0");
         System.out.println("ddddd");
         System.out.println("iiiii");
+           System.out.println("iiiii");
     }
 }
